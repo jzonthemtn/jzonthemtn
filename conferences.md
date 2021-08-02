@@ -38,7 +38,7 @@ October 2018 - Montreal, Quebec, Canada<br>
 Title: [Embracing Diversity: Searching Over Multiple Languages](https://activate2018.sched.com/event/FkMf/embracing-diversity-searching-over-multiple-languages?iframe=yes&w=100%&sidebar=yes&bg=dark#)<br>
 Technologies: Apache NiFi, Apache OpenNLP, Apache Solr, Sockeye
 
-Haystack Search Relevance Conference<br>
+## Haystack Search Relevance Conference
 April 2018 - Charlottesville, Virginia, USA<br>
 Title: [Embracing Diversity: Implementing Multi-language Search](https://opensourceconnections.com/events/haystack-single/haystack-self-organizing/)<br>
 Technologies: Apache NiFi, Apache Joshua, Elasticsearch
