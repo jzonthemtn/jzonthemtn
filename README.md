@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - I do consulting in those areas and the best way to reach me is through [LinkedIn](https://www.linkedin.com/in/jeffzemerick/).
 - I have many [AWS](https://www.youracclaim.com/users/jeff-zemerick/badges) and Google Cloud certifications.
 - I am the current chair of the [Apache OpenNLP](https://opennlp.apache.org/) project.
-- I enjoy giving talks at [conferences](https://github.com/jzonthemtn/jzonthemtn/conferences.md).
+- I enjoy giving talks at [conferences](https://github.com/jzonthemtn/jzonthemtn/blob/main/conferences.md).
 - I don't [blog](https://jeffzemerick.dev/) as often as I should.
