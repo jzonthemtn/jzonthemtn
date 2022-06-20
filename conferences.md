@@ -12,7 +12,13 @@ Natural language processing capabilities have exploded in the past few years, wi
 ## Berlin Buzzwords 2021
 June 17, 2021 - Virtual<br>
 Title: [Applied MLOps to Maintain Model Freshness on Kubernetes](https://github.com/jzonthemtn/berlin-buzzwords-2021)<br>
-Technologies: Containers, NLP, AI/ML, Kubernetes
+Technologies: Containers, NLP, AI/ML, Kubernetes<br>
+
+As machine learning becomes more pervasive across industries the need to automate the deployment of the required infrastructure becomes even more important. The ability to efficiently and automatically provision infrastructure for modeling training, evaluation, and serving becomes an important component of a successful ML pipeline. Combined with the ever growing popularity of Kubernetes, a full-cycle, containerized method for managing models is needed.
+
+In this talk we will present a containerized architecture to handle the full machine learning lifecycle of an NLP model. We will describe our technologies and tools used along with our lessons learned along the way. We will show how models can be trained, evaluated, and served in an automated fashion with room for extensibility to be customized for specific workloads.
+
+Attendees of this talk will come away with a working knowledge of how a machine learning pipeline can be constructed and managed inside Kubernetes. Knowledge of NLP is not required. All code presented will be available on GitHub.
 
 ## HashTalks 2021
 February 18, 2021 - Virtual<br>
@@ -37,12 +43,22 @@ Technologies: Apache NiFi, Apache Kafka, Apache OpenNLP, Apache Superset
 ## PyData Washington DC
 November 2018 - McLean, Virginia, USA<br>
 Title: [Using Sockeye Neural Machine Translation in a Streaming Pipeline](https://pydata.org/dc2018/schedule/presentation/23/)<br>
-Technologies: Apache Flink, Sockeye
+Technologies: Apache Flink, Sockeye<br>
+
+Sockeye is a neural machine translation application written in Python and built on top of Apache MXNet. Apache Flink is a scalable streaming framework well-suited for handling large amounts of incoming text. In this talk we will present an overview of neural machine translation and an introduction to Sockeye and Flink. We will see how we can use Sockeye and Flink together to build a scalable streaming text translation pipeline. Developers will take away from this talk a better understanding of neural machine translation and have access to the code repositories to experiment with their own translation pipelines.
 
 ## Activate Search and AI Conference
 October 2018 - Montreal, Quebec, Canada<br>
 Title: [Embracing Diversity: Searching Over Multiple Languages](https://activate2018.sched.com/event/FkMf/embracing-diversity-searching-over-multiple-languages?iframe=yes&w=100%&sidebar=yes&bg=dark#)<br>
-Technologies: Apache NiFi, Apache OpenNLP, Apache Solr, Sockeye
+Technologies: Apache NiFi, Apache OpenNLP, Apache Solr, Sockeye<br>
+
+Although a lot of online content is written in English there're tons of non English users out there that still need to retrieve information. When searching, especially for tech related topics, it's common to compose queries in English; however for such users search results written in their own native language may be preferred.
+
+We'll see how statistical machine translation tools can help in the above scenario to perform text translation at query time, resulting in an improved recall and precision for the search engine queries.
+
+We'll look at how cross language information retrieval can be implemented on top of Apache Solr with the help of a Neural machine translation toolkit and also leverage Pointer-Generator Networks to summarize the retrieved and translated results from different sources.
+
+The audience will gain a better understanding of how to be able to make search queries against a multilingual corpora indexed into Apache Solr and being able to retrieve all of the relevant search results in different languages.
 
 ## Haystack Search Relevance Conference
 April 2018 - Charlottesville, Virginia, USA<br>
