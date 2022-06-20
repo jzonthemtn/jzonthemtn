@@ -2,6 +2,12 @@
 
 I do consulting around the intersections of cloud, big-data, and NLP. The best way to reach me is through [LinkedIn](https://www.linkedin.com/in/jeffzemerick/).
 
+## The Linux Foundation Open Source Summit 2022
+June 24-24, 2022 - Austin, TX<br>
+Title: [Searching for the Right Words: Bringing NLP to Apache solr through ONNX and OpenNLP](https://sched.co/11Nq2)<br>
+Technologies: Apache OpenNLP, Apache Solr, ONNX Runtime<br>
+
+Natural language processing capabilities have exploded in the past few years, with most of the work done in Python. The ONNX Runtime provides a means for using deep learning models across programming languages, architectures, and platforms, promising to further democratize advancements in machine learning. With the ONNX Runtime, developers no longer have to rely on remote services to access NLP services created in other languages. In this session we will show how a deep learning model trained using PyTorch or Tensorfow can be used for inference from a Java search stack of Apache OpenNLP, Apache Lucene, and Apache Solr. We will demonstrate how these state-of-the-art NLP capabilities can be realized in Apache Solr to offer search users a more impactful search experience. We will discuss the challenges, the relationships between OpenNLP, Lucene, and Solr, and how attendees can get started in these open source projects.
 
 ## Berlin Buzzwords 2021
 June 17, 2021 - Virtual<br>
