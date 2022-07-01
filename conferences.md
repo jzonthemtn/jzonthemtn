@@ -2,6 +2,20 @@
 
 I do consulting around the intersections of cloud, big-data, and NLP. The best way to reach me is through [LinkedIn](https://www.linkedin.com/in/jeffzemerick/).
 
+## ApacheCon North America 2022
+October 3-6, 2022 - New Orleans, LA<br>
+Title: Apache OpenNLP 2.0: What's new and what's coming<br>
+Technologies: OpenNLP (natural language processing tools and techniques)<br>
+
+The first release of Apache OpenNLP was over 10 years ago. The NLP landscape has dramatically changed in the past few years with Python taking over as the dominant language for NLP applications. OpenNLP 2.0 introduces support for modern NLP architectures through ONNX models for entity recognition and document classification. We will show how Java applications, such as Apache Solr, can use these new capabilities in OpenNLP 2.0.  This talk will highlight OpenNLP’s journey, what’s new in version 2.0, and plans for future versions.
+
+## OpenSearchCon 2022
+September 21, 2022 - Seattle, WA<br>
+Title: How Organizations can get the most out of their OpenSearch Contributions<br>
+Technologies: OpenSearch, Open Source Contributions and Management<br>
+
+With OpenSearch being available under the Apache license we are able to make use of it and its source code without cost. This provides organizations exciting possibilities to contribute and guide the project's future. But as an organization, how do you get the most benefit from your contributions? In this talk we'll describe a roadmap, common pitfalls, and key objectives organizations can follow to make sure their contributions to OpenSearch go beyond just committing code. This talk will be presented from personal experience from years active in various open source projects and from observations in the search industry.
+
 ## The Linux Foundation Open Source Summit 2022
 June 24-24, 2022 - Austin, TX<br>
 Title: [Searching for the Right Words: Bringing NLP to Apache solr through ONNX and OpenNLP](https://sched.co/11Nq2)<br>
