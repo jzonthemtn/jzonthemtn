@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 - I have many [AWS](https://www.youracclaim.com/users/jeff-zemerick/badges) and [Google Cloud](https://googlecloudcertified.credential.net/profile/e0c31964641022d04f2f3269bc85b510483f8b7b?name=zemerick) certifications.
 - I am the current chair of the [Apache OpenNLP](https://opennlp.apache.org/) project.
 - I enjoy giving talks at conferences and you can find a list of them on my [website](https://jeffzemerick.dev/).
-- I don't [blog](https://blog.jeffzemerick.dev/) as often as I should.
+- I don't [blog](https://medium.com/@jzonthemtn) as often as I should.
 
 Check out [philterd](https://www.github.com/philterd) for repositories related to managing sensitive information in text.
